@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Adriana
 
-- 🎯 Aspiring Data Analyst | Civil Engineer with Project Management expertise
+- 🎯 Data Analyst | Civil Engineer with Project Management expertise
 - 🌍 Passionate about data-driven decisions, clean insights, and building better processes
-- 📈 Transitioning from Engineering to Analytics with hands-on experience in Excel, SQL, and Power BI
+- 📈 Diverse Engineering projects directly related with Analytics with hands-on experience in Excel, SQL, and Power BI
 
 
 
